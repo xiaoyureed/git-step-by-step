@@ -280,6 +280,6 @@ Aborting
 
 ########## git rm 和 git rm --cached 区别
 # git rm            删除 working dir 中的文件， 并且将改动 add 到 Index。
-# git rm --cached   删除 History 中的文件， 但是保留 working dir 中的文件
+# git rm --cached   删除 History 中的文件（但是保留 working dir 中的文件）， 并将改动 add 到 Index
 
 ```
