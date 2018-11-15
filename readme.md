@@ -275,7 +275,11 @@ error: Your local changes to the following files would be overwritten by checkou
         file1
 Please commit your changes or stash them before you switch branches.
 Aborting
+# 此时用 git stash 可以很好的解决
 
 
+########## git rm 和 git rm --cached 区别
+# git rm            同时删除 working dir 和 History 中的文件
+# git rm --cached   删除 History 中的文件， 但是保留 working dir 中的文件
 
 ```
