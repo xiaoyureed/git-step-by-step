@@ -4,6 +4,8 @@
 - Index/Stage
 - History
 
+![](resources/Snipaste_2018-11-17_13-18-21.png)
+
 ```sh
 # init
 git init
